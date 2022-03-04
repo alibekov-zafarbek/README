@@ -1,4 +1,4 @@
-<h3>Frontend React developer in Andijan</h3>
+<h3>Frontend React developer from Andijan</h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
@@ -18,7 +18,6 @@
 
 <a href="https://www.instagram.com/alibekovzafarbek/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.t.me/AlibekoV_Z"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<!-- <a href="https://twitter.com/khumoyun_m"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/alibekov-z/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
@@ -37,7 +36,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khumoyun13&langs_count=8)](https://github.com/Khumoyun13/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khumoyun13&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibekov-zafarbek&langs_count=8)](https://github.com/alibekov-zafarbek/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibekov-zafarbek&show_icons=true)  
 
 
 <br>
