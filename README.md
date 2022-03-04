@@ -50,6 +50,6 @@
 ## ❤️ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khumoyun13">
+    <img src="https://komarev.com/ghpvc/?username=alibekov-zafarbek">
 </a>
 <a href="https://github.com/alibekov-zafarbek?tab=followers"><img src="https://img.shields.io/github/followers/alibekov-zafarbek?label=Followers&style=social" alt="GitHub Badge"></a>
