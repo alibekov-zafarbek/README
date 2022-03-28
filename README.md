@@ -36,7 +36,7 @@
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibekov-zafarbek=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibekov-zafarbek&langs_count=8)](https://github.com/alibekov-zafarbek/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibekov-zafarbek&show_icons=true)  
+(https://github-readme-stats.vercel.app/api/top-langs/?username=alibekov-zafarbek&langs_count=8)](https://github.com/alibekov-zafarbek/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibekov-zafarbek&show_icons=true)  
 
 
 <br>
