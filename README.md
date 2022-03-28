@@ -35,7 +35,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibekov-zafarbek&langs_count=8)](https://github.com/alibekov-zafarbek/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibekov-zafarbek&show_icons=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibekov-zafarbek&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibekov-zafarbek&show_icons=true)  
 
 
 <br>
